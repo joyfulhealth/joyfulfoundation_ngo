@@ -174,7 +174,7 @@ const Footer = () => {
       {/* Social Media */}
       <div className="flex space-x-4 justify-center items-center mb-4">
         <a 
-          href="https://facebook.com/joyfulhealth" 
+          href="https://www.facebook.com/profile.php?id=61555883005753" 
           target="_blank" 
           rel="noopener noreferrer"
           className="w-10 h-10 bg-white/10 hover:bg-accent rounded-full flex items-center justify-center transition-all hover:scale-110"
@@ -182,7 +182,7 @@ const Footer = () => {
         >
           <Facebook className="w-5 h-5" />
         </a>
-        <a 
+       /* <a 
           href="https://twitter.com/joyfulhealth" 
           target="_blank" 
           rel="noopener noreferrer"
@@ -209,6 +209,8 @@ const Footer = () => {
         >
           <Linkedin className="w-5 h-5" />
         </a>
+        */
+        
       </div>
 
       {/* Bottom Bar */}
