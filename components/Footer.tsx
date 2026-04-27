@@ -182,7 +182,7 @@ const Footer = () => {
         >
           <Facebook className="w-5 h-5" />
         </a>
-       /* <a 
+        {/* <a 
           href="https://twitter.com/joyfulhealth" 
           target="_blank" 
           rel="noopener noreferrer"
@@ -209,7 +209,7 @@ const Footer = () => {
         >
           <Linkedin className="w-5 h-5" />
         </a>
-        */
+        */}
         
       </div>
 
