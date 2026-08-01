@@ -21,20 +21,20 @@ const contactCards = [
   {
     icon: Phone,
     title: 'Phone',
-    lines: ['+234 801 234 5678', '+234 802 345 6789'],
-    href: 'tel:+2348012345678',
+    lines: ['+234 816 494 7828', '+234 703 445 9611'],
+    href: 'tel:+2348164947828',
   },
   {
     icon: Mail,
     title: 'Email',
-    lines: ['partners@joyfulhealth.org'],
-    href: 'mailto:partners@joyfulhealth.org',
+    lines: ['info@joyfulhealthfoundation.org'],
+    href: 'mailto:info@joyfulhealthfoundation.org',
   },
   {
     icon: MapPin,
     title: 'Office Address',
-    lines: ['123 Healthcare Avenue', 'Imo State, Nigeria'],
-    href: 'https://maps.google.com',
+    lines: ['2 Umuikanwa Umuehie Street, Ikperejere Ihitte Uboma Town', 'Imo State, Nigeria'],
+    href: '#',
   },
 ];
 
