@@ -57,7 +57,7 @@ const TestimonialsSection = () => {
       name: "Fatima Mohammed",
       role: "Academic Scholarship Student",
       location: "Abuja",
-      video: "/videos/testimonials/t3.mp4",
+      video: "/videos/testimonials/t3.MOV",
       thumbnail: "/images/testimonials/thumb3.png"
     }
   ];
