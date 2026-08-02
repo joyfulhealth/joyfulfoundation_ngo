@@ -14,9 +14,9 @@ const fadeInUp = {
 
 type MediaItem = { src: string; type: 'image' | 'video' };
 
-const galleryData: Record<number, MediaItem[]> = {
+const galleryData: Record<string, MediaItem[]> = {
 
-  2026: [
+  "2026 at Jiwa Abuja": [
     { src: '/images/gallery/2026june/2.jpeg', type: 'image' },
     { src: '/images/gallery/2026june/3.jpeg', type: 'image' },
     { src: '/images/gallery/2026june/1.jpeg', type: 'image' },
@@ -104,8 +104,18 @@ const galleryData: Record<number, MediaItem[]> = {
     // example video entry:
     // { src: '/images/gallery/2025/video1.mp4', type: 'video' },
   ],
-  2024: [
-    // { src: '/images/gallery/2024/1.jpg', type: 'image' },
+
+  "2024 Videos at Ihitte Uboma": [    
+    { src: '/videos/testimonials/20241.mp4', type: 'video' },
+    { src: '/videos/testimonials/20242.mp4', type: 'video' },
+    { src: '/videos/testimonials/20243.mp4', type: 'video' },
+    { src: '/videos/testimonials/20244.mp4', type: 'video' },
+    { src: '/videos/testimonials/2025.mp4', type: 'video' },
+  ],
+
+
+    2024: [
+    // { src: '/images/gallery/2024/1.jpg', type: 'image' },    
     { src: '/images/gallery/2024/2.jpg', type: 'image' },
     { src: '/images/gallery/2024/3.jpg', type: 'image' },
     { src: '/images/gallery/2024/4.jpg', type: 'image' },
@@ -288,7 +298,7 @@ const Carousel = ({ images }: { images: MediaItem[] }) => {
 };
 
 const MediaGalleryPage = () => {
-  const years = [2025, 2024, 2023, 2022];
+  const years = ["2026 at Jiwa Abuja", 2025, "2024 Videos at Ihitte Uboma", 2024, 2023, 2022];
 
   return (
     <main className="min-h-screen bg-gray-50">
