@@ -157,7 +157,7 @@ const Hero = () => {
             >
               <div className="text-center sm:text-left">
                 <div className="text-3xl sm:text-4xl font-bold text-accent mb-1">
-                  5,000+
+                  15,000+
                 </div>
                 <div className="text-sm sm:text-base text-white/80">
                   Lives Impacted
@@ -165,7 +165,7 @@ const Hero = () => {
               </div>
               <div className="text-center sm:text-left border-l border-white/20 pl-6">
                 <div className="text-3xl sm:text-4xl font-bold text-accent mb-1">
-                  2
+                  60
                 </div>
                 <div className="text-sm sm:text-base text-white/80">
                   Communities Reached
