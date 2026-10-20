@@ -50,7 +50,7 @@ const Navbar = () => {
 
     { name: 'Medical Outreach', href: '/projects/medical-outreach' },
 
-    { name: 'Academic Outreach', href: '/projects/academic-outreach' },
+    // { name: 'Academic Outreach', href: '/projects/academic-outreach' },
 
     { name: 'IT Scholarship', href: '/projects/it-scholarship' },
 
