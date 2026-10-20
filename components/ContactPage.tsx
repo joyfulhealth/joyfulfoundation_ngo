@@ -40,10 +40,10 @@ const ContactPage = () => {
   ];
 
   const socialLinks = [
-    { icon: Facebook, name: "Facebook", link: "https://facebook.com/joyfulhealth", color: "hover:bg-blue-600" },
-    { icon: Twitter, name: "Twitter", link: "https://twitter.com/joyfulhealth", color: "hover:bg-sky-500" },
-    { icon: Instagram, name: "Instagram", link: "https://instagram.com/joyfulhealth", color: "hover:bg-pink-600" },
-    { icon: Linkedin, name: "LinkedIn", link: "https://linkedin.com/company/joyfulhealth", color: "hover:bg-blue-700" }
+    { icon: Facebook, name: "Facebook", link: "https://www.facebook.com/profile.php?id=61555883005753", color: "hover:bg-blue-600" },
+    { icon: Twitter, name: "Twitter", link: "https://x.com/joyfulhealth21", color: "hover:bg-sky-500" },
+    { icon: Instagram, name: "Instagram", link: "https://www.instagram.com/joyhealthfoundation/", color: "hover:bg-pink-600" },
+    // { icon: Linkedin, name: "LinkedIn", link: "https://linkedin.com/company/joyfulhealth", color: "hover:bg-blue-700" }
   ];
 
   const reasons = [

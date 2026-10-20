@@ -15,9 +15,9 @@ const MedicalOutreachPage = () => {
   };
 
   const stats = [
-    { icon: Users, number: "5,000+", label: "Patients Treated" },
+    { icon: Users, number: "15,000+", label: "Patients Treated" },
     { icon: MapPin, number: "50+", label: "Communities Reached" },
-    { icon: Calendar, number: "24", label: "Outreach Events" },
+    { icon: Calendar, number: "6", label: "Outreach Events" },
     { icon: Heart, number: "100%", label: "Free Healthcare" }
   ];
 
