@@ -193,8 +193,8 @@ const Footer = () => {
           <Instagram className="w-5 h-5" />
         </a>
         
-        {/* <a 
-          href="https://twitter.com/joyfulhealth" 
+        { <a 
+          href="https://x.com/joyfulhealth21" 
           target="_blank" 
           rel="noopener noreferrer"
           className="w-10 h-10 bg-white/10 hover:bg-accent rounded-full flex items-center justify-center transition-all hover:scale-110"
@@ -203,16 +203,17 @@ const Footer = () => {
           <Twitter className="w-5 h-5" />
         </a>
         
-        <a 
-          href="https://linkedin.com/company/joyfulhealth" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="w-10 h-10 bg-white/10 hover:bg-accent rounded-full flex items-center justify-center transition-all hover:scale-110"
-          aria-label="LinkedIn"
-        >
-          <Linkedin className="w-5 h-5" />
-        </a>
-        */}
+        
+        // <a 
+        //   href="https://linkedin.com/company/joyfulhealth" 
+        //   target="_blank" 
+        //   rel="noopener noreferrer"
+        //   className="w-10 h-10 bg-white/10 hover:bg-accent rounded-full flex items-center justify-center transition-all hover:scale-110"
+        //   aria-label="LinkedIn"
+        // >
+        //   <Linkedin className="w-5 h-5" />
+        // </a>
+        }
         
       </div>
 

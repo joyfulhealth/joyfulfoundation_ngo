@@ -15,9 +15,9 @@ const ITScholarshipPage = () => {
   };
 
   const stats = [
-    { icon: Users, number: "500+", label: "Trained Professionals" },
-    { icon: Code, number: "15+", label: "Tech Skills Taught" },
-    { icon: Award, number: "200+", label: "Certifications Awarded" },
+    { icon: Users, number: "30+", label: "Trained Professionals" },
+    { icon: Code, number: "4+", label: "Tech Skills Taught" },
+    { icon: Award, number: "20+", label: "Certifications Awarded" },
     { icon: Briefcase, number: "85%", label: "Employment Rate" }
   ];
 
