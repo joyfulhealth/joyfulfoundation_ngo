@@ -18,8 +18,8 @@ const ImpactStatsSection = () => {
   };
 
   const stats = [
-    { number: "2", label: "Communities Reached" },
-    { number: "5,000+", label: "Lives Impacted" },
+    { number: "60", label: "Communities Reached" },
+    { number: "15,000+", label: "Lives Impacted" },
     { number: "4", label: "Programs Launched" },
     { number: "100+", label: "Volunteers" }
   ];
